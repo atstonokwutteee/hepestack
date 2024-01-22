@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hepestack/static/css/main.1319e149.css",
+    "main.js": "/hepestack/static/js/main.3c7ab285.js",
+    "static/css/72.31c4de37.chunk.css": "/hepestack/static/css/72.31c4de37.chunk.css",
+    "static/js/72.7c738aa5.chunk.js": "/hepestack/static/js/72.7c738aa5.chunk.js",
+    "static/js/787.a147527a.chunk.js": "/hepestack/static/js/787.a147527a.chunk.js",
+    "static/js/161.061cc351.chunk.js": "/hepestack/static/js/161.061cc351.chunk.js",
+    "index.html": "/hepestack/index.html",
+    "main.1319e149.css.map": "/hepestack/static/css/main.1319e149.css.map",
+    "main.3c7ab285.js.map": "/hepestack/static/js/main.3c7ab285.js.map",
+    "72.31c4de37.chunk.css.map": "/hepestack/static/css/72.31c4de37.chunk.css.map",
+    "72.7c738aa5.chunk.js.map": "/hepestack/static/js/72.7c738aa5.chunk.js.map",
+    "787.a147527a.chunk.js.map": "/hepestack/static/js/787.a147527a.chunk.js.map",
+    "161.061cc351.chunk.js.map": "/hepestack/static/js/161.061cc351.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1319e149.css",
+    "static/js/main.3c7ab285.js"
+  ]
+}
